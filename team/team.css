@@ -151,8 +151,8 @@ body{
 	transition:font-size 0.5s;
 }
 .text_1_1{
-		margin-top: 20%;
-		margin-bottom: 20%
+		margin-top: 60px;
+		margin-bottom: 30px;
 }
 .ceshi{
 	clear: both;
@@ -215,3 +215,122 @@ body{
 }
 
 /* 下一页*/
+	  .kuangjia{
+	  	position: relative;
+	  	background-color: #F8B156;
+	  	background-size: 100% 100%;
+	  }
+	  .dakuang{
+	  	padding: 35%;
+	  }
+	  .maintext
+	  {
+	  	position: absolute;
+	  	top: 7%;
+	  	left:44%;
+	  	text-transform:uppercase;
+	  	text-align: center;
+	  	color:#FFFFFF;
+	  }
+	  .maintext h1
+	  {
+	  	 font-size: 3em;
+	  }
+	  .maintext h2
+	  {
+	  	 font-size: 1.5em;
+	  }
+	  .main1
+	  {
+         position: absolute; 
+         height: 25%;
+         width: 33.9%;
+         left: 15%;
+         top: 22%;
+         background-color: white;
+	  }
+	  .img
+	  {
+	  	 position: absolute;	
+	  	 left: 0;
+	  	 top: 0;
+	  	 height: 100%;
+	  	 width: 38.5%;
+	  }
+	  .text
+	  {
+	  	color:#333333;
+	  	font-weight: 300;
+	  }
+	  .text h1
+	  {
+         font-size: 2em; 
+/*	color: #BEBEBE;*/
+	    text-transform:uppercase;
+	    position: absolute;
+	    top: 8%;
+	    left: 43%;
+	  }
+	  .text h2
+	  {
+	  	font-size: 13px;
+	  	position: absolute;
+	  	left: 43%;
+	  	top: 29.6%;
+	  	white-space:break-word;
+	  }
+	  .main2
+	  {
+	  	 position: absolute;
+	  	 top: 22%;
+	  	 left: 51%;
+	  	height: 25%;
+         width: 33.9%;
+         background-color: white;
+	  }
+	  .main3
+	  {
+	  	 position: absolute;
+	  	 left: 15%;
+	  	 top: 54%;
+	  	height: 25%;
+         width: 33.9%;
+         background-color: white;
+	  }
+	  .main4
+	  {
+	  	 position: absolute;
+	  	 left: 51%;
+	  	 top: 54%;
+	  	 height: 25%;
+         width: 33.9%;
+         background-color: white;
+	  }
+	  .buttonx
+	  {
+	  	position: absolute;
+	  	top: 88%;
+	  	height: 6.3%;
+	  	left: 44%;
+	  	width: 11.3%;
+	  	background-color: #F8B156;
+	  	display: inline-block;
+		font-size: 0.9725em;
+		color: #ffffff;
+		border: 2px solid #FFFFFF;
+		/*padding: 18px 28px 16px 24px;*/
+		line-height: 1.8em;
+		border-radius: 5px;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		-o-border-radius: 5px;
+		-webkit-transition: all 0.3s ease-in-out;
+		-moz-transition: all 0.3s ease-in-out;
+		-o-transition: all 0.3s ease-in-out;
+		transition: all 0.3s ease-in-out;
+	  }
+	  .buttonx:hover
+	  {
+	  	background: #ffffff;
+	    color: #F8B156;
+	  }
