@@ -1,0 +1,146 @@
+*{
+	padding: 0px;
+	margin:0px;
+}
+body {
+	background-color: #dedede;
+}
+.div1{
+	background-color: #333333;
+}
+.div1 ul{
+	list-style: circle inside black;
+	float: right;
+}
+.div1 ul li{
+	margin-top: 20px;
+	margin-right: 25px;
+
+	font-size: 14px;
+	float: left;
+}
+.div1 ul li a{
+	text-decoration: none;
+	color: #fff;
+}
+.div1 ul li a:hover{
+	color: #9ba2ac;
+}
+
+.zuobian{
+	margin-right: 420px;
+}
+.div2{
+	margin:20px 20px 0px 20px;
+	padding: 40px 30px 20px;
+	background-color: #fff;
+	box-shadow: 3px 3px 5px #9f9f9f;
+}
+#tupian{
+	overflow:hidden
+}
+.div2 h2{
+	font-size: 22px;
+}
+.div2 h3{
+	font-size: 18px;
+	color: #777;
+	margin-top: 10px; 
+}
+.div2 h4{
+	font-size: 15px;
+	color: #777;
+	margin:10px 0px; 
+}
+.div2 p{
+	text-indent: 2em;
+}
+.div2 ol{
+	margin-left: 50px;
+	font-weight: bold;
+}
+.image{
+	overflow: hidden;
+	float: left;
+	margin-left: 20px;
+	margin-top: 30px;
+	width: 120px;
+	height: 150px;
+	border:1px solid #cecece;
+}
+.image p{
+	margin-top: 8px;
+	margin-left: -5px;
+}
+.image img{
+	width: 100px;
+	height: 100px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.div2 table{
+	width: 100%;
+}
+.div2 table th{
+	background-color: #333;
+}
+.zongji{
+	background-color: #ccc;
+}
+/* 侧栏*/
+.information{
+	line-height: 35px;
+	margin-left: 10px;
+}
+#cebian{
+	color: black;
+	margin-top: -15px;
+	font-size: 16px;
+	padding: 8px 12px;
+	border-left: 3px solid #ccc;
+}
+.div2 h5{
+	margin-left: 130px;
+	color: #ccc;
+}
+.pass{
+	margin-left: 33px;
+}
+.xingbie{
+	margin-left: 80px;
+}
+.aihao{
+	margin-left: 50px;
+}
+.aihao textarea{
+	position: relative;
+	right: -80px;
+	top: -30px;
+	height: 80px;
+	width: 200px;
+	color: #ccc;
+}
+.button {
+	width: 300px;
+	height: 40px;
+	margin-left: 20px;
+	background-color: #3553cf;
+	color: #fff;
+	border-radius: 12px;
+}
+.footer {
+	height: 70px;
+	background-color: #000;
+	text-align: center;
+	color: #fff;
+	font-size: 14px;
+	line-height: 64px;
+}
+
+#celan{
+	position: absolute;
+	right: 1px;
+	top: 56px;
+	height: 475px;
+	width: 340px;
+}
